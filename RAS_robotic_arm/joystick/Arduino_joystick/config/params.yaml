@@ -1,0 +1,6 @@
+/**:
+  ros__parameters:
+    port: '/dev/ttyUSB0'        # En Windows: 'COM3'
+    baudrate: 9600
+    threshold: 0.1              # Umbral mínimo de movimiento
+    deadband: 0.05              # Zona muerta del joystick
