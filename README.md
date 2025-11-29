@@ -302,7 +302,8 @@ robotic_arm_joy/
 
 ## Video del Expo-Proyecto
 ```markdown
-[Ver video de demostración del brazo robótico](media/expo_video_link.md)
+[![Ver video de demostración del brazo robótico](https://img.youtube.com/vi/hoDyDBRrRAo/0.jpg)](https://youtu.be/hoDyDBRrRAo)
+
 ```
 
 También se pueden incluir miniaturas o capturas de pantalla en la carpeta `media/` para documentar diferentes posiciones del brazo y pruebas realizadas.
